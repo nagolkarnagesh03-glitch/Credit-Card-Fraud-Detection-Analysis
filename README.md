@@ -128,5 +128,18 @@ jupyter notebook credit_card_analysis.ipynb
 
 ## 👤 Author
 
-**Your Name**
-GitHub: [your-username](https://github.com/your-username) · LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
+**Nagesh Nagolkar**
+
+
+
+
+
+## Resume Points
+
+
+
+Analyzed 1,000 credit card transactions using Python (Pandas, Matplotlib), uncovering a 28.6% fraud rate and ₹33L+ in fraudulent transactions.
+
+Identified Card Not Present as the most common fraud type (25%) and Identity Theft as the highest average fraud value (~₹12.5K), with fraud peaking in Aug 2024.
+
+Discovered that the "Fraud Risk" label was a weak fraud indicator (Critical tier had the lowest fraud rate at 26%), highlighting the need for better risk scoring.
